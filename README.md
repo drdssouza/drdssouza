@@ -1,4 +1,4 @@
-## Oi eu sou a Eduardo Schrotke 
+## Olá! Eu sou o Eduardo Schrotke 
 
 📚 Atualmente cursando Engenharia de Software
 
