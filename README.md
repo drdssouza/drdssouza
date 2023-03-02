@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Eduardo Schrotke 
 
-📚 Atualmente cursando Engenharia de Software
+📚 Estudante de Engenharia de Software
+💻 Estagiario pela Compas
 
 <div align="center">
   <a href="https://github.com/drdssouza">
