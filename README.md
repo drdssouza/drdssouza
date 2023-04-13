@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Schrotke 
 
 📚 Estudante de Engenharia de Software
-💻 Estagiario pela Compas
+💻 Estagiario pela Compass
 
 <div align="center">
   <a href="https://github.com/drdssouza">
