@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 😃 Me chamo Eduardo Schrotke <br>📚 Estudante de Engenharia de Software pela Unicesumar <br>💻 Atualmente trabalho como estagiário pela Compass<br>
 
 
