@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-😃 Me chamo Eduardo Schrotke <br>📚 Estudante de Engenharia de Software pela Unicesumar <br>💻 Atualmente trabalho como estagiário pela Compass<br>
+😃 Me chamo Eduardo Schrotke <br>📚 Estudante de Engenharia de Software pela Unicesumar <br>💻 Atualmente estou trabalhando como Trainee na empresa Compass Uol<br>
 
 
 # 💻 Tech Stack:
